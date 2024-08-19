@@ -1,0 +1,41 @@
+.mobile_header {
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+}
+
+.mobile_header_top {
+    display: flex;
+    align-items: center;
+}
+
+.mobile_header_top_left {
+    display: flex;
+    align-items: center;
+    width: 25%;
+}
+
+.mobile_header_top_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+
+.mobile_header_top_center_logo {
+    width: 75px;
+}
+
+.mobile_header_top_right {
+    width: 25%;
+display: flex;
+align-items: center;
+justify-content: flex-end;
+padding-right: 15px;
+
+}
+
+.mobile_header_top_right_icon {
+color: black;
+}
